@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+li #i {
+  padding-left: 300px;
+  color: red;
+}
